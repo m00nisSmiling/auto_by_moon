@@ -8,7 +8,7 @@ One Touch Automation Script By m00nissmiling
 ##### - write down your sudo password to install requirements
 
 ### Usage
-$ python main.py -pj [project_name] -u [domain]
+$ sudo python main.py -pj [project_name] -u [domain]
 
 ### Details
 ##### -pj to build new directory using project name input
